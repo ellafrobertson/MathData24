@@ -2,24 +2,25 @@
 Notes for class 
 
 ##Notes 
-H1
-H2
-H3
-H4
-H5
-H6
-Alternatively, for H1 and H2, an underline-ish style:
 
-Alt-H1
-Alt-H2
-First ordered list item
-Another item ⋅⋅* Unordered sub-list.
-Actual numbers don't matter, just that it's a number ⋅⋅1. Ordered sub-list
-And another item.
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅ ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅ ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-Unordered list can use asterisks
-Or minuses
-Or pluses
+Using two asterisks **this text is bold**.  
+Two underscores __work as well__.  
+Let's make it *italic now*.  
+You guessed it, _one underscore is also enough_.  
+Can we combine **_both of that_?** Absolutely.
+What if I want to ~~strikethrough~~?
+
+> This is a blockquote.
+> Want to write on a new line with space between?
+>
+> > And nested? No problem at all.
+> >
+> > > PS. you can **style** your text _as you want_.
