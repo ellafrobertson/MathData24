@@ -18,6 +18,10 @@ You guessed it, _one underscore is also enough_.
 Can we combine **_both of that_?** Absolutely.
 What if I want to ~~strikethrough~~?
 
+
+
+<img src="https://media.istockphoto.com/id/1195103941/photo/tropical-island.jpg?s=612x612&w=0&k=20&c=EXI86eYJj_nt1-tNY6k472N7ZdwoiqS58fG0w1K_oGg=">
+
 > This is a blockquote.
 > Want to write on a new line with space between?
 >
