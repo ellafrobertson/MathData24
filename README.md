@@ -8,7 +8,7 @@
 - **Pitchdeck (Google Slides)**: [Pitch Presentation Part 2](https://docs.google.com/presentation/d/1ItJCuH_t8Axiqdmw-s10gvBifKewpCe0wy0rfePrKsk/edit#slide=id.p1)
 - 
 - **Website**: [Live Website](https://ellafrobertson.github.io/dolphin-shark/)
-- **YouTube Video**: [Project Walkthrough]((https://www.youtube.com/watch?v=OEJCDiFN3To))
+- **YouTube Video**: [Project Walkthrough](https://www.youtube.com/watch?v=OEJCDiFN3To)
 
 
 
